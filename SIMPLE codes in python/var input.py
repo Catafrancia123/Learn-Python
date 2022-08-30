@@ -1,0 +1,3 @@
+bin = input()
+
+print(bin)
